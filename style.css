@@ -93,17 +93,17 @@ display: flex;
     margin: 5px auto;
     background: #d5d6da;
     padding: 5px;
-    width: 900px;
+    width: 700px;
     border: 10px solid #d5d6da;
 
 }
 .li.conteudo-principal-escrito-text-apresentacao{
-    left: 900;
+    left: 700;
 }
 .div{
     margin: 3px auto;
     padding: 5px;
-    width: 895px;
+    width: 700px;
     border: 0px auto;
     align-items: center;
 }
@@ -118,14 +118,14 @@ display: flex;
     margin: 5px auto;
     background:#d5d6da;
     padding: 5px;
-    width: 895px;
+    width: 700px;
     border: 10px solid #d5d6da;
 
 }
 .section{
     margin: 3px auto;
     padding: 5px;
-    width: 895px;
+    width: 700px;
     border: 0px auto;
     align-items: center;
 }
@@ -139,14 +139,14 @@ display: flex;
     margin: 5px auto;
     background: #d5d6da;
     padding: 5px;
-    width: 895px;
+    width: 700px;
     border: 10px solid #d5d6da;
 
 }
 .div{
     margin: 3px auto;
     padding: 15px;
-    width: 895px;
+    width: 700px;
     border: 0px auto;
     align-items: center;
 }
@@ -162,7 +162,7 @@ display: flex;
     margin: 5px auto;
     background: #d5d6da;
     padding: 5px;
-    width: 895px;
+    width: 700px;
     border: 10px solid #d5d6da;
     align-items: center;
 
@@ -175,7 +175,7 @@ display: flex;
 .form {
     margin: 3px auto;
     padding: 5px;
-    width: 895px;
+    width: 700px;
     border: 0px auto;
     align-items: center;
     left: 70;
